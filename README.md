@@ -15,3 +15,4 @@ The MGM-166 KEM (Kinetic Energy Missile) is massively different from other anti-
 
 Kinetic energy missiles are also _much_ faster than typical ATGMs, with a maximum velocity of 1,500 meters/second. In game, the MGM-166 leaves the launcher at maximum velocity, and does not decelerate; this is subject to change in future updates. Such incredible speed makes you far less vulnerable to counterfire, and decreases time-to-impact to under 6 seconds at maximum range.
 
+#### YOU NEED STABLE, DECENT FPS TO FOR THE MISSILE TO GUIDE PROPERLY! LOW OR UNSTABLE FPS MAY RESULT IN THE MISSILE JUMPING OFF COURSE OR SLAMMING INTO THE GROUND!
