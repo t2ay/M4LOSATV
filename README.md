@@ -1,6 +1,8 @@
 # M4 LOSATV
 This mod converts the USA's M2 Bradley into a fictional variant called the M4 LOSATV (Line of Sight Anti-Tank Vehicle).
 
+Much thanks and full credit given to Cyance (https://github.com/Cyances) who allowed me to use the code from their M6A2 ADATS mod.
+
 ## Features
 - Renames the M2 Bradley to M4 LOSATV
 - Converts the BGM-71C I-TOW on the M2 to the MGM-166 KEM (Kinetic Energy Missile)
