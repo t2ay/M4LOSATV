@@ -6,7 +6,7 @@ Much thanks and full credit given to Cyance (https://github.com/Cyances) who all
 ## Features
 - Renames the M2 Bradley to M4 LOSATV
 - Converts the BGM-71C I-TOW on the M2 to the MGM-166 KEM (Kinetic Energy Missile)
-- Increases missile capacity on the M2 to 4+8 (from 2+8). Reload time is not affected.
+- Increases missile capacity on the M2 to 4+12 (from 2+8). Reload time is not affected.
 
 Except for the changes to the missiles, the M4 LOSATV is otherwise a completely typical M2 Bradley, with the same 25mm autocannon, 7.62x51mm coaxial machine gun, fire control system, armor, and mobility. No configuration is needed for this mod.
 
